@@ -33,4 +33,4 @@
 
 4. 사이트 링크
 
-    -사이트 링크 : https://askldnalsk.github.io/Team-Project-Universal-Studios/%ED%98%84%EC%A3%BC2/index.html
+    -사이트 링크 : https://askldnalsk.github.io/TeamProject-AngleInUs/%EB%A9%94%EC%9D%B8/%EB%A9%94%EC%9D%B8/%EB%A9%94%EC%9D%B8/index.html
