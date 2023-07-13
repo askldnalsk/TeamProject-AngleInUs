@@ -931,7 +931,6 @@ section.review_wrap > dl > dd.review_container .review_thread .comment {
 
 .other-product p {
   font-size: 12px;
-  padding-top: 12px;
   color: black;
 }
 
@@ -978,6 +977,7 @@ section.review_wrap > dl > dd.review_container .review_thread .comment {
 
 .after-arrow {
   visibility: hidden;
+  cursor: pointer;
   width: 23px;
   height: 23px;
 }
@@ -1011,6 +1011,8 @@ section.review_wrap > dl > dd.review_container .review_thread .comment {
   width: 23px;
   height: 23px;
   visibility: hidden;
+  cursor: pointer;
+
 }
 
 /* .horizon-scroll:hover .left-arrow {

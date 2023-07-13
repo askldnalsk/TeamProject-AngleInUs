@@ -45,14 +45,14 @@ const manipulateComment = (function() {
     }
   }) 
 
-  toggleBtn.addEventListener('click' , e=>{ 
-    // list.classList.toggle('hidden');
-    // toggleBtn.classList.toggle('on');
-  })
-  toggleBtn.addEventListener('blur', e=> { 
-    // list.classList.add('hidden');
-    // toggleBtn.classList.remove('on');
-  })
+  // toggleBtn.addEventListener('click' , e=>{ 
+  //   list.classList.toggle('hidden');
+  //   toggleBtn.classList.toggle('on');
+  // })
+  // toggleBtn.addEventListener('blur', e=> { 
+  //   list.classList.add('hidden');
+  //   toggleBtn.classList.remove('on');
+  // })
   const langArr = [wholeBeen, french, drip, espresso];
 
   langArr.forEach((item)=>{ 
@@ -146,19 +146,19 @@ const deleteComment = (function() {
 
 // Relocate Page
 
-const signIn = (function() {
+// const signIn2 = (function() {
   
-  const signIn = document.querySelector('.sign_in');
+//   const signIn = document.querySelector('.sign_in');
   
-  function relocation() {
-    window.location.href = './login.html';
-  }
+//   function relocation() {
+//     window.location.href = './login.html';
+//   }
   
-  signIn.addEventListener('click', e => {
-    !e.target.disabled && relocation();
-  })
+//   signIn.addEventListener('click', e => {
+//     !e.target.disabled && relocation();
+//   })
 
-})();
+// })();
 
 
 // ZOOM INTERACTION
